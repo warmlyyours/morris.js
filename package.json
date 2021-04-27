@@ -30,8 +30,5 @@
   },
   "scripts": {
     "test": "grunt concat coffee mocha"
-  },
-  "engines": {
-    "node": ">=0.8 <0.11"
   }
 }
